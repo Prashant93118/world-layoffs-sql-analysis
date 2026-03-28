@@ -108,7 +108,7 @@ Every query is annotated with a **Question + Logic** comment block explaining *w
 ## 🚀 How to Run
 
 1. Clone this repository
-2. Open `world_layoffs_cleaning_eda.sql` in MySQL Workbench
+2. Open `DataCleaning and EDA - World Layoffs.sql` in MySQL Workbench
 3. Update the `LOAD DATA INFILE` path to your local CSV location
 4. Run section by section (`Ctrl+Shift+Enter`)
 5. Final cleaned data lives in `layoffs_staging2`
